@@ -1,0 +1,8 @@
+﻿  server.cpp
+E:\aaafile\Socket\lab7_s\server.h(79,44): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\aaafile\Socket\lab7_s\server.h(92,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\aaafile\Socket\lab7_s\server.h(180,9): warning C4101: “iSendResult”: 未引用的局部变量
+E:\aaafile\Socket\lab7_s\server.cpp(93,27): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\aaafile\Socket\lab7_s\server.cpp(21,9): warning C4101: “iSendResult”: 未引用的局部变量
+E:\aaafile\Socket\lab7_s\server.cpp(102,19): warning C4101: “thread”: 未引用的局部变量
+  lab7_s.vcxproj -> E:\aaafile\Socket\lab7_s\Debug\lab7_s.exe

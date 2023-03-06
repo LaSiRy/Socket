@@ -1,0 +1,4 @@
+﻿  server.cpp
+E:\aaafile\Socket\lab7\Server\server.cpp(55,44): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\aaafile\Socket\lab7\Server\server.cpp(305,25): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Server.vcxproj -> E:\aaafile\Socket\lab7\Server\Debug\Server.exe

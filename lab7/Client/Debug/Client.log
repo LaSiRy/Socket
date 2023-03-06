@@ -1,0 +1,7 @@
+﻿  Client.cpp
+E:\aaafile\Socket\lab7\Client\Client.cpp(258,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\aaafile\Socket\lab7\Client\Client.cpp(237,10): warning C4101: “buf”: 未引用的局部变量
+E:\aaafile\Socket\lab7\Client\Client.cpp(239,10): warning C4101: “head”: 未引用的局部变量
+E:\aaafile\Socket\lab7\Client\Client.cpp(293,15): warning C4101: “rsvP”: 未引用的局部变量
+E:\aaafile\Socket\lab7\Client\Client.cpp(291,14): warning C4101: “iLen”: 未引用的局部变量
+  Client.vcxproj -> E:\aaafile\Socket\lab7\Client\Debug\Client.exe
